@@ -37,7 +37,7 @@
   flex-direction: column;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
               url('../images/cover.jpg') no-repeat center / cover;
-  padding: 165px 30px 50px;
+  padding: 165px 50px 50px;
   z-index: 2;
   justify-content: center;
   align-items: center;
