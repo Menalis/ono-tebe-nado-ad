@@ -27,7 +27,6 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 	max-width: 1100px;
-  margin: 0 auto;
 }
 
 ol, ul {
@@ -41,7 +40,6 @@ blockquote, q {
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
-	content: none;
 }
 
 table {
